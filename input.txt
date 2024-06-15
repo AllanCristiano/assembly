@@ -1,0 +1,3 @@
+Ler a primeira linha de um txt
+Ler a segunda linha de um txt
+Ler a terceira linha de um txt

@@ -1,4 +1,4 @@
-NOME = saudacao
+NOME = leituratxt
 
 all: ${NOME}.o
 	ld -s -o ${NOME} ${NOME}.o
